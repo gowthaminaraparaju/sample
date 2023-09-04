@@ -18,7 +18,7 @@
 				<version>3.0.0-M8</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>batch.xml</suiteXmlFile>
+						<suiteXmlFile>sampletestng.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
